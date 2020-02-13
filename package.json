@@ -1,0 +1,7 @@
+{
+  "name": "casey_book",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Richard Braamburg <richard.braamburg@gmail.com>",
+  "license": "MIT"
+}

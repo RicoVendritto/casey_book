@@ -1,0 +1,22 @@
+.App, .form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  margin: 1vh 1vw;
+  padding: 1vh 1vw;
+  width: 50vw;
+}
+
+.form > input {
+  margin: 1vh 1vw;
+  width: 50vw;
+  height: 5vh;
+}
+
+.welcome_sign {
+  text-align: center;
+}
